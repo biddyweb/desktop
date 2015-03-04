@@ -2,22 +2,24 @@
 
 This is an example with gulp build tools of running a Meteor app in a Mac OS X webview
 
+![demo](http://i.imgur.com/upeED2J.png)
+
 ### Usage
 
-To build the Meteor app into the Mac OS X app
+1. To start the Meteor server and web client
+```
+cd build
+npm start
+```
+
+2. To build the Meteor app into the Mac OS X app
 ```
 cd build
 npm install
 gulp
 ```
 
-To start the Meteor server and web client
-```
-cd build
-npm start
-```
-
-After Xcode pops up click run build to start app
+3. After Xcode pops up click run build to start app
 
 ============
 
