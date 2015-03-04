@@ -7,23 +7,24 @@ This is an example with gulp build tools of running a Meteor app in a Mac OS X a
 ### Usage
 
 Run all the following commands from the build directory
-`cd build`
+```
+cd build
+```
 
-1. To start the Meteor server and web client
+To start the Meteor server and web client
 ```
 npm start
 ```
 
-2. To build the Meteor app into the Mac OS X app
+To build the Meteor app into the Mac OS X app
 ```
 npm install
 gulp
 ```
 
-3. After Xcode pops up click run build to start app
+After Xcode pops up click run build to start app
 
 ============
-
 
 ### TODO
 
