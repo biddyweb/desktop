@@ -1,0 +1,3 @@
+[submodule "submodules/MacGap2"]
+	path = submodules/MacGap2
+	url = https://github.com/MacGapProject/MacGap2
