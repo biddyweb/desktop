@@ -2,7 +2,7 @@
 
 This is an example with gulp build tools of running a Meteor app in a Mac OS X webview
 
-![demo](http://i.imgur.com/upeED2J.png)
+![demo](http://i.imgur.com/EnpM8fG.png)
 
 ### Usage
 
