@@ -56,7 +56,7 @@ Example Config
 
 ============
 
-### Running and Building the app
+### Running and building
 
 Run all the following commands from the build directory
 ```
