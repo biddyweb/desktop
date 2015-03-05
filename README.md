@@ -2,7 +2,9 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools). Since the cordova-osx platform is basically dead this integration uses [MacGap2](https://github.com/MacGapProject/MacGap2). I tried to match the Meteor Cordova integration as much as possible as far as file locations and naming conventions. 
+This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools). 
+
+Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basically dead, this integration uses [MacGap2](https://github.com/MacGapProject/MacGap2). I tried to match the Meteor Cordova integration as much as possible as far as file locations and naming conventions. 
 
 ![demo](http://i.imgur.com/EnpM8fG.png)
 ![demo](http://i.imgur.com/xvkbbrA.png)
