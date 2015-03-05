@@ -54,6 +54,8 @@ if (Meteor.isMac) {
 *Currently they have to be located in resources/icons/mac/*
 (this can be changed in the gulp file and build/Contents.json)
 
+============
+
 ### Running and Building the app
 
 Run all the following commands from the build directory
