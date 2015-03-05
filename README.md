@@ -1,6 +1,6 @@
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 #Hybrid Mac
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools)
 
