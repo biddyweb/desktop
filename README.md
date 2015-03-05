@@ -32,5 +32,5 @@ After Xcode opens, run the application just like with `meteor run ios-device`
 * [ ] Let the user specify icons in mac-config.json
 * [ ] Clean up build gulpfile
 * [ ] Fix DDP_DEFAULT_CONNECTION_URL replacement and add autoupdate back in
-* [ ] Add Meteor.isMac() flag
+* [ ] Add Meteor.isMac flag
 * [ ] Build into a Meteor package
