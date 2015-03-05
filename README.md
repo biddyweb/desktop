@@ -18,8 +18,9 @@ if (Meteor.isMac) {
 
 ##### Config (located in the root of your Meteor app)
 `mac-config.json`
+
+Example Config
 ```
-// Example Config
 {
     "main": "public/index.html",
     "name": "Leaderboard",
