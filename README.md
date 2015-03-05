@@ -4,6 +4,15 @@ This is an example of running Meteor wrapped in a Mac OS X app (using gulp for b
 
 ![demo](http://i.imgur.com/EnpM8fG.png)
 
+### Development
+
+To add Mac OS X native specific code
+```
+if (Meteor.isMac) {
+	return "WOOT";
+}
+```
+
 ### Usage
 
 Run all the following commands from the build directory
@@ -22,7 +31,7 @@ npm install
 gulp
 ```
 
-After Xcode opens, run the application just like with `meteor run ios-device`
+After Xcode opens, run the application
 
 ============
 
@@ -32,5 +41,12 @@ After Xcode opens, run the application just like with `meteor run ios-device`
 * [ ] Let the user specify icons in mac-config.json
 * [ ] Clean up build gulpfile
 * [ ] Fix DDP_DEFAULT_CONNECTION_URL replacement and add autoupdate back in
-* [ ] Add Meteor.isMac flag
+* [x] Add Meteor.isMac flag
 * [ ] Build into a Meteor package
+
+============
+
+### Details
+
+Build using [MacGap2](https://github.com/MacGapProject/MacGap2)
+For more details on Mac OS X specific API features please refer to (http://docs.macgap.com/)[http://docs.macgap.com/]
