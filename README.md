@@ -1,6 +1,6 @@
 #Hybrid Mac
 
-This is an example of running a Meteor wrapped in a Mac OS X app (using gulp for build tools)
+This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools)
 
 ![demo](http://i.imgur.com/EnpM8fG.png)
 
