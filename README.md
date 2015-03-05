@@ -82,10 +82,8 @@ After Xcode opens, run the application
 
 * [ ] Replace Xcode app name
 * [ ] Let the user specify icons in mac-config.json
-* [ ] Clean up build gulpfile
+* [ ] Turn gulpfile into a simple node.js lib
 * [ ] Fix DDP_DEFAULT_CONNECTION_URL replacement and add autoupdate back in
-* [x] Add Meteor.isMac flag
-* [ ] Build into a Meteor package
 
 ============
 
