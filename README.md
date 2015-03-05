@@ -5,7 +5,7 @@
 This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools)
 
 ![demo](http://i.imgur.com/EnpM8fG.png)
-![demo](http://i.imgur.com/EFDN9Z5.jpg)
+![demo](http://i.imgur.com/xvkbbrA.png)
 
 ### Development
 
