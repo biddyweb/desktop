@@ -16,7 +16,43 @@ if (Meteor.isMac) {
 }
 ```
 
-### Usage
+### Application Config (located in the root of your Meteor app)
+`mac-config.json`
+```
+{
+    "main": "public/index.html",
+    "name": "Leaderboard",
+    "description": "",
+    "version": "1.0.0",
+    "plugins" : {
+        "Dock":"Dock",
+        "Dialog":"Dialog",
+        "Fonts": "Fonts",
+        "Clipboard":"Clipboard",
+        "StatusItem":"StatusItem",
+        "Task": "Task",
+        "Sound": "Sound",
+        "Defaults": "Defaults",
+        "File": "File"
+         },
+    "window" : {
+        "title": "Leaderboard",
+        "width": 595,
+        "height": 690,
+        "position": "center",
+        "min_width": 400,
+        "min_height": 200,
+        "max_width": 1200,
+        "max_height": 800
+    }
+  
+}
+
+```
+
+`
+
+### Running and Building the app
 
 Run all the following commands from the build directory
 ```
