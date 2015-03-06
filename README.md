@@ -55,7 +55,7 @@ Example Config
 ```
 
 ##### Icons 
-*Currently they have to be located in resources/icons/mac/*
+*Currently they have to be located in app/resources/icons/mac/*
 
 (this can be changed in the gulp file and build/Contents.json)
 
