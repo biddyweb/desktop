@@ -99,5 +99,5 @@ After Xcode opens, run the application.
 
 ### Details
 
-* Built using [MacGap2](https://github.com/MacGapProject/MacGap2)
-* For more details on Mac OS X specific API features please refer to http://docs.macgap.com/
+* Built using [MacGap2](https://github.com/MacGapProject/MacGap2).
+* For more details on Mac OS X specific API features please refer to http://docs.macgap.com/.
