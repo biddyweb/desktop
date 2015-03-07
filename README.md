@@ -63,9 +63,14 @@ Example Config
 
 ### Running and building
 
+Since this repo has a submodule (MacGap2) you will want to use the `--recursive` flag when cloning
+```
+git clone https://github.com/meteorhybrid/mac.git --recursive
+```
+
 Run all the following commands from the build directory
 ```
-cd build
+cd mac/build
 ```
 
 To start the Meteor server
