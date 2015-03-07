@@ -11,6 +11,33 @@ Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basic
 ![demo](http://i.imgur.com/EnpM8fG.png)
 ![demo](http://i.imgur.com/xvkbbrA.png)
 
+### Usage instructions
+
+Since this repo has a submodule (MacGap2), use the `--recursive` flag when cloning.
+```
+git clone https://github.com/meteorhybrid/mac.git --recursive
+```
+
+Run all the following commands from the build directory.
+```
+cd mac/build
+```
+
+To start the Meteor server
+```
+npm start
+```
+
+To build the Meteor app into the Mac OS X app, open a new terminal and navigate to the build directory.
+```
+npm install
+gulp
+```
+
+After Xcode opens, run the application.
+
+============
+
 ### Development
 
 To add Mac OS X native specific code
@@ -58,33 +85,6 @@ Example Config
 *Currently they have to be located in app/resources/icons/mac/*
 
 (this can be changed in the gulp file and build/Contents.json)
-
-============
-
-### Running and building
-
-Since this repo has a submodule (MacGap2), use the `--recursive` flag when cloning.
-```
-git clone https://github.com/meteorhybrid/mac.git --recursive
-```
-
-Run all the following commands from the build directory.
-```
-cd mac/build
-```
-
-To start the Meteor server
-```
-npm start
-```
-
-To build the Meteor app into the Mac OS X app, open a new terminal and navigate to the build directory.
-```
-npm install
-gulp
-```
-
-After Xcode opens, run the application.
 
 ============
 
