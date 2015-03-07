@@ -47,7 +47,7 @@ if (Meteor.isMac) {
 }
 ```
 
-##### Config (located in the root of your Meteor app)
+#### Config (located in the root of your Meteor app)
 `mac-config.json`
 
 Example Config
@@ -81,7 +81,7 @@ Example Config
 }
 ```
 
-##### Icons 
+#### Icons 
 *Currently they have to be located in app/resources/icons/mac/*
 
 (this can be changed in the gulp file and build/Contents.json)
