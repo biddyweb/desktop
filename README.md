@@ -78,7 +78,7 @@ To start the Meteor server
 npm start
 ```
 
-To build the Meteor app into the Mac OS X app
+To build the Meteor app into the Mac OS X app, open a new terminal and navigate to the build directory.
 ```
 npm install
 gulp
