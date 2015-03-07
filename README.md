@@ -11,6 +11,8 @@ Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basic
 ![demo](http://i.imgur.com/EnpM8fG.png)
 ![demo](http://i.imgur.com/xvkbbrA.png)
 
+============
+
 ### Usage instructions
 
 Since this repo has a submodule (MacGap2), use the `--recursive` flag when cloning.
