@@ -13,6 +13,12 @@ Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basic
 
 ============
 
+### Requirements
+
+* Xcode 
+
+============
+
 ### Usage instructions
 
 Since this repo has a submodule (MacGap2), use the `--recursive` flag when cloning.
