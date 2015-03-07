@@ -63,7 +63,7 @@ Example Config
 
 ### Running and building
 
-Since this repo has a submodule (MacGap2) you will want to use the `--recursive` flag when cloning
+Since this repo has a submodule (MacGap2), you will want to use the `--recursive` flag when cloning
 ```
 git clone https://github.com/meteorhybrid/mac.git --recursive
 ```
