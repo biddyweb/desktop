@@ -63,12 +63,12 @@ Example Config
 
 ### Running and building
 
-Since this repo has a submodule (MacGap2), you will want to use the `--recursive` flag when cloning
+Since this repo has a submodule (MacGap2), use the `--recursive` flag when cloning.
 ```
 git clone https://github.com/meteorhybrid/mac.git --recursive
 ```
 
-Run all the following commands from the build directory
+Run all the following commands from the build directory.
 ```
 cd mac/build
 ```
@@ -84,7 +84,7 @@ npm install
 gulp
 ```
 
-After Xcode opens, run the application
+After Xcode opens, run the application.
 
 ============
 
