@@ -15,7 +15,7 @@ Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basic
 
 ### Requirements
 
-* Xcode 
+* Xcode 6
 
 ============
 
