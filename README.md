@@ -8,6 +8,8 @@ Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basic
 
 *Note: MacGap 2 is considered beta, the development isn't very active, and the documentation is sparse. I don't think it is ready to be added as a core Meteor platform but it is cool to play around with! I'm going to start contributing to it when I have time.*
 
+I'm in the process of adding atom-shell and nw.js build tools so you can choose whichever wrapper you want. 
+
 ![demo](http://i.imgur.com/EnpM8fG.png)
 ![demo](http://i.imgur.com/xvkbbrA.png)
 
@@ -96,12 +98,16 @@ Example Config
 
 ============
 
-### TODO
+### TODO 
 
+MacGap
 * [ ] Replace Xcode app name
 * [ ] Let the user specify icons in mac-config.json
 * [ ] Turn gulpfile into a simple node.js lib
 * [ ] Fix DDP_DEFAULT_CONNECTION_URL replacement and add autoupdate back in
+-----
+* [ ] atom-shell build tools
+* [ ] nw.js build tools
 
 ============
 
