@@ -1,14 +1,14 @@
-# ![Hybrid](http://i.imgur.com/jUDMlbO.png) Mac
+# ![Hybrid](http://i.imgur.com/jUDMlbO.png) Desktop
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is an example of running Meteor wrapped in a Mac OS X app (using gulp for build tools). 
 
+*I renamed this project to desktop. I'm in the process of adding atom-shell and nw.js build tools so you can choose whichever wrapper you want.*
+
 Since the [cordova-osx](https://github.com/apache/cordova-osx) platform is basically dead, this integration uses [MacGap2](https://github.com/MacGapProject/MacGap2) which is what [Slack](http://slack.com) uses for their app. I tried to match the Meteor Cordova integration as much as possible as far as file locations and naming conventions. 
 
 *Note: MacGap 2 is considered beta, the development isn't very active, and the documentation is sparse. I don't think it is ready to be added as a core Meteor platform but it is cool to play around with! I'm going to start contributing to it when I have time.*
-
-I'm in the process of adding atom-shell and nw.js build tools so you can choose whichever wrapper you want. 
 
 ![demo](http://i.imgur.com/EnpM8fG.png)
 ![demo](http://i.imgur.com/xvkbbrA.png)
