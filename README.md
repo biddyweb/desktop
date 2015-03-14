@@ -2,7 +2,6 @@
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/meteorhybrid/platform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
----
 *March 14 - I renamed this project to desktop. I'm in the process of adding atom-shell and nw.js build tools so you can choose whichever wrapper you want.*
 ---
 
