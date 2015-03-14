@@ -106,7 +106,7 @@ MacGap
 * [ ] Let the user specify icons in mac-config.json
 * [ ] Turn gulpfile into a simple node.js lib
 * [ ] Fix DDP_DEFAULT_CONNECTION_URL replacement and add autoupdate back in
------
+General
 * [ ] atom-shell build tools
 * [ ] nw.js build tools
 
